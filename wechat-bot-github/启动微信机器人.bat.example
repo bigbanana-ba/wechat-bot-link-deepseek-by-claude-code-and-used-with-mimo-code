@@ -1,0 +1,4 @@
+@echo off
+echo 启动微信机器人...
+cc-connect --force
+pause
